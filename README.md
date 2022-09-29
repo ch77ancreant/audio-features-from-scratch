@@ -1,5 +1,7 @@
 # audio-features-from-scratch
 
+I will show how to extract the audio features from scratch in this repository.\
+The features including
 1. Amplitude Envelope
 2. Root Mean Square Energy
 3. Magnitude Spectrum 
